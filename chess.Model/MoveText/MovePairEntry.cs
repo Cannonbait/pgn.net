@@ -1,4 +1,4 @@
-namespace chess.Model.MoveText
+namespace OpeningMentor.Chess.Model.MoveText
 {
     /// <summary>
     /// Represents a full move (white and black). 

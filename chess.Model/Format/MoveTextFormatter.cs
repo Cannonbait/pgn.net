@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.IO;
 using System.Text;
-using chess.Model.MoveText;
+using OpeningMentor.Chess.Model.MoveText;
 
-namespace chess.Model.Format
+namespace OpeningMentor.Chess.Model.Format
 {
     /// <summary>
     /// A special formatter for move text in PGN notation

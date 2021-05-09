@@ -1,6 +1,6 @@
-﻿using chess.Model.Format;
+﻿using OpeningMentor.Chess.Model.Format;
 
-namespace chess.Model.MoveText
+namespace OpeningMentor.Chess.Model.MoveText
 {
     /// <summary>
     /// An abstract move text entry.

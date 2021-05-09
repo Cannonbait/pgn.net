@@ -1,4 +1,4 @@
-namespace chess.Model.MoveText
+namespace OpeningMentor.Chess.Model.MoveText
 {
     /// <summary>
     /// Represents a half-move (or ply). E.g.  "17. Ne5" (white moves knight e5) or "17... Qxe5" (black queen takes e5)

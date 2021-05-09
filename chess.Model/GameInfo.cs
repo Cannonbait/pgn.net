@@ -1,4 +1,4 @@
-﻿namespace chess.Model
+﻿namespace OpeningMentor.Chess.Model
 {
     /// <summary>
     /// Represents additional game information (usually a tag).

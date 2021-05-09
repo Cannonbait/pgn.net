@@ -1,4 +1,4 @@
-﻿namespace chess.Model.Basic
+﻿namespace OpeningMentor.Chess.Model.Basic
 {
     /// <summary>
     /// Represnts the board files. Values are A=1, ..., B=8

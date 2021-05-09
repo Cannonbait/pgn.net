@@ -1,8 +1,8 @@
 ﻿using System.IO;
-using chess.Model;
-using chess.Model.Format;
+using OpeningMentor.Chess.Model;
+using OpeningMentor.Chess.Model.Format;
 
-namespace chess.Pgn
+namespace OpeningMentor.Chess.Pgn
 {
     /// <summary>
     /// Pgn format writer.

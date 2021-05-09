@@ -1,10 +1,10 @@
 ﻿[<AutoOpen>]
-module chess.Parse.Tag
+module OpeningMentor.Chess.Parse.Tag
 
 open System
 open FParsec
-open chess.Model
-open chess.Model.MoveText
+open OpeningMentor.Chess.Model
+open OpeningMentor.Chess.Model.MoveText
 
 let sevenTagRosterTagNames= ["Event"; "Site"; "Date"; "Round"; "White"; "Black"; "Result"];
 let suplementTagNames =

@@ -1,4 +1,4 @@
-﻿namespace chess.Model.Basic
+﻿namespace OpeningMentor.Chess.Model.Basic
 {
     /// <summary>
     /// A representation of a chess board square.

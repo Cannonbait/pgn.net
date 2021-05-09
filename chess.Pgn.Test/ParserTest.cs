@@ -1,9 +1,9 @@
 ﻿using System.IO;
 using System.Text;
 using Xunit;
-using chess.Model;
+using OpeningMentor.Chess.Model;
 
-namespace chess.Pgn.Test
+namespace OpeningMentor.Chess.Pgn.Test
 {
     public class ParserTest
     {

@@ -1,8 +1,8 @@
 ﻿using Xunit.Sdk;
-using chess.Pgn;
-using chess.Model;
+using OpeningMentor.Chess.Pgn;
+using OpeningMentor.Chess.Model;
 
-namespace chess.Pgn.Test
+namespace OpeningMentor.Chess.Pgn.Test
 {
     public class TestUtils
     {

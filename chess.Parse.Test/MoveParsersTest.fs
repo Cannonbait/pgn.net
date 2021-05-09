@@ -1,9 +1,9 @@
-﻿namespace chess.Pgn.Test
+﻿namespace OpeningMentor.Chess.Pgn.Test
 
-open chess.Model
-open chess.Model.Basic
-open chess.Parse.Move
-open chess.Pgn.Test.TestBase
+open OpeningMentor.Chess.Model
+open OpeningMentor.Chess.Model.Basic
+open OpeningMentor.Chess.Parse.Move
+open OpeningMentor.Chess.Pgn.Test.TestBase
 
 open Xunit
 

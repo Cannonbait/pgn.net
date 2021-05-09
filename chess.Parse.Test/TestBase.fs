@@ -1,7 +1,7 @@
-﻿module chess.Pgn.Test.TestBase
+﻿module OpeningMentor.Chess.Pgn.Test.TestBase
 
 open FParsec
-open chess.Model.ChessException
+open OpeningMentor.Chess.Model.ChessException
 
 open Xunit.Sdk
 

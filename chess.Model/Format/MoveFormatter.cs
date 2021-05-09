@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Globalization;
 using System.IO;
-using chess.Model.Basic;
+using OpeningMentor.Chess.Model.Basic;
 
-namespace chess.Model.Format
+namespace OpeningMentor.Chess.Model.Format
 {
     /// <summary>
     /// A special formatter moves in PGN notation.

@@ -1,7 +1,7 @@
 ﻿using Xunit;
-using chess.Model.Basic;
+using OpeningMentor.Chess.Model.Basic;
 
-namespace chess.Model.Test
+namespace OpeningMentor.Chess.Model.Test
 {
     public class BoardSetupTest
     {

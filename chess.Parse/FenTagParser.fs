@@ -1,9 +1,9 @@
 ﻿[<AutoOpen>]
-module chess.Parse.FenTagParser
+module OpeningMentor.Chess.Parse.FenTagParser
 
 open FParsec
-open chess.Model
-open chess.Model.Basic
+open OpeningMentor.Chess.Model
+open OpeningMentor.Chess.Model.Basic
 open System.Linq
 
 let pFenPieces =

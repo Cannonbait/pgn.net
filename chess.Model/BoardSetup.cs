@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
-using chess.Model.Basic;
+using OpeningMentor.Chess.Model.Basic;
 
-namespace chess.Model
+namespace OpeningMentor.Chess.Model
 {
     /// <summary>
     /// Represents a board setup. This is used in position practices or non-standard chess variants like Chess960

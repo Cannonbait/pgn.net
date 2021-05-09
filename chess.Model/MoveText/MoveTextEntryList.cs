@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace chess.Model.MoveText
+namespace OpeningMentor.Chess.Model.MoveText
 {
     /// <summary>
     /// List of MoveTextEntries which also provides some helpful

@@ -1,4 +1,4 @@
-﻿namespace chess.Model.Basic
+﻿namespace OpeningMentor.Chess.Model.Basic
 {
     /// <summary>
     /// Piece color.

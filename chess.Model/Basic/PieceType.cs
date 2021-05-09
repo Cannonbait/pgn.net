@@ -1,4 +1,4 @@
-﻿namespace chess.Model.Basic
+﻿namespace OpeningMentor.Chess.Model.Basic
 {
     /// <summary>
     /// Represents the piece type. Values are PGN abbrivations (K, Q, R, B, N, P).

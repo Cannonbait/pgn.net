@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace chess.Model
+namespace OpeningMentor.Chess.Model
 {
     /// <summary>
     /// Pgn Database. Basically a collection of games.

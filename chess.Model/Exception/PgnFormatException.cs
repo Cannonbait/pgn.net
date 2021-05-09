@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace chess.Model.ChessException
+namespace OpeningMentor.Chess.Model.ChessException
 {
     /// <summary>
     /// Indicates a problem with the pgn format.

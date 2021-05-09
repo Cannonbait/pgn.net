@@ -1,8 +1,8 @@
 ﻿using Xunit;
-using chess.Pgn;
-using chess.Parse;
+using OpeningMentor.Chess.Pgn;
+using OpeningMentor.Chess.Parse;
 
-namespace chess.Pgn.Test
+namespace OpeningMentor.Chess.Pgn.Test
 {
     public class FileTestCases
     {

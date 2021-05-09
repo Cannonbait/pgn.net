@@ -1,7 +1,7 @@
-﻿using chess.Model.Format;
-using chess.Model.Basic;
+﻿using OpeningMentor.Chess.Model.Format;
+using OpeningMentor.Chess.Model.Basic;
 
-namespace chess.Model
+namespace OpeningMentor.Chess.Model
 {
     /// <summary>
     /// A move (actually Half-Move or Ply). Holds all information about the move and does not check for inconsistency, completeness, contradictions...

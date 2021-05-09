@@ -1,4 +1,4 @@
-namespace chess.Model.MoveText
+namespace OpeningMentor.Chess.Model.MoveText
 {
     /// <summary>
     /// Represents a Nag (numeric annotation glyph) entry in the move text.

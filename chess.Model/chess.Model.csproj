@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <PackageId>chess.Model</PackageId>
-    <Version>0.1.0</Version>
+    <PackageId>Chess.Model</PackageId>
+    <Version>0.1.2</Version>
     <Authors>Cannonbait</Authors>
   </PropertyGroup>
 

@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel;
-using chess.Model.Format;
-using chess.Model.MoveText;
+using OpeningMentor.Chess.Model.Format;
+using OpeningMentor.Chess.Model.MoveText;
 
-namespace chess.Model
+namespace OpeningMentor.Chess.Model
 {
     /// <summary>
     /// A PGN Game.

@@ -1,5 +1,5 @@
 ﻿[<AutoOpen>]
-module chess.Parse.DateTagParser
+module OpeningMentor.Chess.Parse.DateTagParser
 
 open FParsec
 

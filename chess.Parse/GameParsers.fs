@@ -1,9 +1,9 @@
 ﻿[<AutoOpen>]
-module chess.Parse.Game
+module OpeningMentor.Chess.Parse.Game
 
 open FParsec
-open chess.Model
-open chess.Model.MoveText
+open OpeningMentor.Chess.Model
+open OpeningMentor.Chess.Model.MoveText
 
 
 let setTag(game : Game, tag : PgnTag) =

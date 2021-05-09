@@ -1,5 +1,5 @@
 ﻿[<AutoOpen>]
-module chess.Parse.BasicCommons
+module OpeningMentor.Chess.Parse.BasicCommons
 
 open FParsec
 

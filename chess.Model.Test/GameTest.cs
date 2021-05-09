@@ -1,7 +1,7 @@
 ﻿using Xunit;
-using chess.Model.MoveText;
+using OpeningMentor.Chess.Model.MoveText;
 
-namespace chess.Model.Test
+namespace OpeningMentor.Chess.Model.Test
 {
     public class GameTest
     {

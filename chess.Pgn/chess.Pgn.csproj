@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <PackageId>chess.Pgn</PackageId>
-    <Version>0.1.0</Version>
+    <PackageId>Chess.Pgn</PackageId>
+    <Version>0.1.1</Version>
     <Authors>Cannonbait</Authors>
   </PropertyGroup>
 
@@ -13,7 +13,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="../chess.Parse/chess.Parse.fsproj" />
+    <ProjectReference Include="../Chess.Parse/Chess.Parse.fsproj" />
   </ItemGroup>
 
 </Project>

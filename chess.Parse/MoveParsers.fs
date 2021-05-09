@@ -1,10 +1,10 @@
 ﻿[<AutoOpen>]
-module chess.Parse.Move
+module OpeningMentor.Chess.Parse.Move
 
 open System
 open FParsec
-open chess.Model
-open chess.Model.Basic
+open OpeningMentor.Chess.Model
+open OpeningMentor.Chess.Model.Basic
 
 type MoveInfo(piece, file, rank) =
     member val Piece : Nullable<PieceType> = toNullable(piece) with get, set

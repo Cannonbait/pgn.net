@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using Xunit;
-using chess.Model.Basic;
-using chess.Model.MoveText;
+using OpeningMentor.Chess.Model.Basic;
+using OpeningMentor.Chess.Model.MoveText;
 
-namespace chess.Model.Format.Test
+namespace OpeningMentor.Chess.Model.Format.Test
 {
     public class MoveTextFormatterTest
     {

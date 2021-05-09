@@ -1,10 +1,10 @@
 ﻿[<AutoOpen>]
-module chess.Parse.BasicChess
+module OpeningMentor.Chess.Parse.BasicChess
 
 open System
 open FParsec
-open chess.Model
-open chess.Model.Basic
+open OpeningMentor.Chess.Model
+open OpeningMentor.Chess.Model.Basic
 
 
 

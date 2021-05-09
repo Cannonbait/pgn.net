@@ -1,4 +1,4 @@
-namespace chess.Model.MoveText
+namespace OpeningMentor.Chess.Model.MoveText
 {
     /// <summary>
     /// Represents the game end entry in the move text. 

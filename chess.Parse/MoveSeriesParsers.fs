@@ -1,10 +1,10 @@
 ﻿[<AutoOpen>]
-module chess.Parse.MoveSeries
+module OpeningMentor.Chess.Parse.MoveSeries
 
 open System.Collections.Generic
 open FParsec
-open chess.Model
-open chess.Model.MoveText
+open OpeningMentor.Chess.Model
+open OpeningMentor.Chess.Model.MoveText
 
 
 let pPeriods =

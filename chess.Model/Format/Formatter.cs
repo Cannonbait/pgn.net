@@ -1,8 +1,8 @@
 ﻿using System.Globalization;
 using System.IO;
-using chess.Model.MoveText;
+using OpeningMentor.Chess.Model.MoveText;
 
-namespace chess.Model.Format
+namespace OpeningMentor.Chess.Model.Format
 {
     /// <summary>
     /// Formatter for Chess games in PGN format.

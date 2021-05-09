@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.IO;
-using chess.Model;
-using chess.Parse;
+using OpeningMentor.Chess.Model;
+using OpeningMentor.Chess.Parse;
 using Microsoft.FSharp.Core;
 
-namespace chess.Pgn
+namespace OpeningMentor.Chess.Pgn
 {
     /// <summary>
     /// Pgn format reader.
@@ -54,7 +54,7 @@ namespace chess.Pgn
         /// </summary>
         /// <param name="stream"></param>
         /// <returns>A pgn database.</returns>
-        public IEnumerable<chess.Model.Game> ReadGamesFromFile(string file)
+        public IEnumerable<Chess.Model.Game> ReadGamesFromFile(string file)
         {
             var p = new Parser();
             foreach (var game in p.ReadGamesFromFile(file))
@@ -66,7 +66,7 @@ namespace chess.Pgn
         /// </summary>
         /// <param name="stream"></param>
         /// <returns>A pgn database.</returns>
-        public IEnumerable<chess.Model.Game> ReadGamesFromStream(Stream stream)
+        public IEnumerable<Chess.Model.Game> ReadGamesFromStream(Stream stream)
         {
             var p = new Parser();
             foreach (var game in p.ReadGamesFromStream(stream))

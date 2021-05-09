@@ -1,5 +1,5 @@
 ﻿[<AutoOpen>]
-module chess.Parse.Bootstrap
+module OpeningMentor.Chess.Parse.Bootstrap
 
 open System
 

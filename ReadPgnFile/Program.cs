@@ -1,6 +1,6 @@
 ﻿using System;
-using chess.Pgn;
-using chess.Model.MoveText;
+using OpeningMentor.Chess.Pgn;
+using OpeningMentor.Chess.Model.MoveText;
 
 namespace ReadPgnFile
 {

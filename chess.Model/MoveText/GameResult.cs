@@ -1,4 +1,4 @@
-﻿namespace chess.Model.MoveText
+﻿namespace OpeningMentor.Chess.Model.MoveText
 {
     /// <summary>
     /// The game result. Note that a game may be unfinished, which is represented by <c>GameResult.Open</c>.

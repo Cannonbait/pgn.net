@@ -1,9 +1,9 @@
-﻿namespace chess.Parse
+﻿namespace OpeningMentor.Chess.Parse
 
 open FParsec
 open System.IO
-open chess.Model.ChessException
-open chess.Parse.Game
+open OpeningMentor.Chess.Model.ChessException
+open OpeningMentor.Chess.Parse.Game
 
 type Parser() =
     member this.ReadFromFile(file:string) =

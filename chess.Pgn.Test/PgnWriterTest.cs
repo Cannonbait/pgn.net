@@ -2,12 +2,12 @@
 using System.IO;
 using System.Text;
 using Xunit;
-using chess.Pgn;
-using chess.Model;
-using chess.Model.MoveText;
+using OpeningMentor.Chess.Pgn;
+using OpeningMentor.Chess.Model;
+using OpeningMentor.Chess.Model.MoveText;
 
 
-namespace chess.Pgn.Test
+namespace OpeningMentor.Chess.Pgn.Test
 {
     public class PgnWriterTest
     {

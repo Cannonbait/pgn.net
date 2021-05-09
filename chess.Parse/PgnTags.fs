@@ -1,9 +1,9 @@
 ﻿[<AutoOpen>]
-module chess.Parse.PgnTags
+module OpeningMentor.Chess.Parse.PgnTags
 
 open System
-open chess.Model
-open chess.Model.MoveText
+open OpeningMentor.Chess.Model
+open OpeningMentor.Chess.Model.MoveText
 
 type PgnTag(name: string, value: string) =
     member val Name = name with get, set

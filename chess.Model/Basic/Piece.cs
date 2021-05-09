@@ -1,4 +1,4 @@
-﻿namespace chess.Model.Basic
+﻿namespace OpeningMentor.Chess.Model.Basic
 {
     /// <summary>
     /// Pieces on the board (combination of type and color). There is a static 
